@@ -14,7 +14,7 @@ This project is developed for **personal branding**, to showcase:
 
 ## 🚀 Live Demo
 
-**👉 [View the live site](https://amane-atexcel.github.io)**  
+**👉 [View the live site](https://amane-atexcel.github.io/My_portofolio/)**  
 
 ## 🛠️ Tech Stack
 
